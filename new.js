@@ -19,3 +19,4 @@ submit.addEventListener("click", function(){
 let ul = document.createElement("ul");
 bar.addEventListener("click", function(){
     ul.classList.toggle("showData");
+})
